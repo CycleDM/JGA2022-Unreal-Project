@@ -1053,3 +1053,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.26-08.23.54:927][761]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
 [2022.04.26-08.23.54:929][762]LogConcert: Display: Synced activity '1' produced by endpoint 'C9D8DE61476109C7C7AE61971B069BC1': CycleDM已加入会话。
 [2022.04.26-08.23.54:984][763]LogConcert: [成功] 已创建会话“team”
+[2022.04.26-08.25.14:718][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.04.26-08.25.14:729][658]LogSavePackage: Moving '../../../../../../Users/CycleDM/Desktop/JGA2022-Unreal-Project/JGA2022/Saved/ThirdPersonExampleMap0C53FC2A4B6D6F0688DA7DBCFB4216F6.tmp' to '../../../../../../Users/CycleDM/Desktop/JGA2022-Unreal-Project/JGA2022/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.04.26-08.25.14:741][658]AssetCheck: New page: 资产保存：ThirdPersonExampleMap
+[2022.04.26-08.25.14:741][658]LogContentValidation: Display: 正在验证World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.04.26-08.25.14:760][660]LogConcert: Display: Synced activity '2' produced by endpoint 'C9D8DE61476109C7C7AE61971B069BC1': CycleDM已保存包/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap。
