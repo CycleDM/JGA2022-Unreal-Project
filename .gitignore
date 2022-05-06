@@ -75,5 +75,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Unreal user configs
-*/Saved/Config/*/EditorPerProjectUserSettings.ini
-*/Saved/Config/*/Engine.ini
+#*/Saved/Config/*/EditorPerProjectUserSettings.ini
+#*/Saved/Config/*/Engine.ini
